@@ -1,2 +1,2 @@
 # ToiletRollCalculator
-A simple toilet roll calculator
+A simple toilet roll calculator for an arduino
